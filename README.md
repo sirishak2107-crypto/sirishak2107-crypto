@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Sirisha 👋
 
-<!--
-**sirishak2107-crypto/sirishak2107-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Computer Science & Engineering Student
 
-Here are some ideas to get you started:
+I'm a 3rd-semester CSE student interested in programming, problem solving, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+
+- C
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
+- VS Code
+
+## 📚 Currently Learning
+
+- Problem solving and DSA
+- Git and GitHub workflows
+- Software development
+- Open-source contribution
+
+## 💻 Coding Practice
+
+- LeetCode
+- HackerRank
+
+## 🎯 Current Goal
+
+To strengthen my programming skills, contribute to open-source projects, and build practical software development experience.
+
+## 📌 Projects
+
+I use GitHub to document my academic projects, programming practice, and technical learning.
+
+---
+
+**Always learning. Always building.**
